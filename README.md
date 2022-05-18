@@ -1,3 +1,3 @@
 # Tindog
 ## Tindog web 
-## made with: HTML, CSS and Bootstrp Twitter
+## HTML, CSS and Bootstrp Twitter

@@ -1,3 +1,3 @@
 # Tindog
-##Tindog web 
-## used technilogies : HTML, CSS and Bootstrp Twitter
+## Tindog web 
+## made with: HTML, CSS and Bootstrp Twitter
